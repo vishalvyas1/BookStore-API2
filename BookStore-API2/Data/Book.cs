@@ -15,5 +15,6 @@ namespace BookStore_API2.Data
         public double? Price { get; set; }
 
         public virtual Author Author { get; set; }
+
     }
 }
